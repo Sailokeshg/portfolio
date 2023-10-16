@@ -1,33 +1,67 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Software Engineer 1 (Full Stack Developer)",
+            "subtitle": "Zemoso Technologies Pvt.Ltd",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Led the development of Washmetrix, an innovative business intelligence software, enhancing data-driven decision-making for clients.",
+                "Ensured high-quality project delivery as a full-stack developer on the Interactive Content team, resulting in a 30% reduction in system errors and crashes.",
+                "Designed, tested, and implemented new software features, resolving defects and significantly improving performance.",
+                "Developed robust APIs, rigorously tested through Swagger, leading to a 25% decrease in API-related errors and seamless integration.",
+                "Integrated external APIs from industry giants like Amazon and Quickbooks, enhancing software functionality and increasing user satisfaction by 20%.",
+                "Established a streamlined Continuous Integration and Continuous Deployment (CI/CD) pipeline, reducing development cycles by 40% and ensuring agile and responsive software development.",
+                "Diagnosed and resolved issues across various situations with a satisfaction rate of 95% or higher."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "Jan 2023 - Jul 2023",
+            "location": "Hyderabad, Telangana, India · Remote"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Associate Software Engineer",
+            "subtitle": "Zemoso Technologies Pvt.Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked on a full-stack real-time project from scratch to production deployment.",
+                "Developed a web application using React.js, PostgreSQL, and AWS tools.",
+                "Responsible for continuous deployment of the application using CI/CD pipelines."
+            ],
+            "dateText": "Jun 2022 - Dec 2022",
+            "location": "Hyderabad, Telangana, India · Remote",
+            "skills": [
+                "Web Application Development",
+                "JavaScript",
+                "TypeScript",
+                "GitHub",
+                "Pytest",
+                "AWS Elastic Beanstalk",
+                "Python (Programming Language)",
+                "Java",
+                "Okta Single Sign-On",
+                "Amazon Cognito",
+                "PostgreSQL",
+                "FastAPI",
+                "React.js"
+            ]
+        },
+        {
+            "title": "Development Intern",
+            "subtitle": "Zemoso Technologies Pvt.Ltd",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Received training on Java, Spring Boot, React, MySQL, and building full-stack applications.",
+                "Participated in boot camps to build an application in under 4 weeks from scratch to production deployment to solve a real-time problem.",
+                "Wrote, tested, and debugged code to implement new features or fix bugs in existing software."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "Nov 2021 - Jun 2022",
+            "location": "Hyderabad, Telangana, India · Remote",
+            "skills": [
+                "MySQL",
+                "Python (Programming Language)",
+                "Java",
+                "Okta Single Sign-On",
+                "Spring Boot",
+                "React.js"
+            ]
         }
     ]
 }

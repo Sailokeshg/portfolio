@@ -10,12 +10,12 @@
                     "title": "Java"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
-                {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
                 },
                 {
                     "icon": "images/skills/python.png",
@@ -24,15 +24,19 @@
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
@@ -40,23 +44,46 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "https://upload.wikimedia.org/wikiversity/en/thumb/8/8c/FastAPI_logo.png/800px-FastAPI_logo.png",
+                    "title": "FastAPI"
+                },
+                {
+                    "icon":"data:image/png;base64,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",
+                    "title":"Redshift"
+                },
+                {
+                    "icon": "https://ih1.redbubble.net/image.404020083.1876/pp,504x498-pad,600x600,f8f8f8.u7.jpg",
+                    "title": "Jest"
+                },{
+                    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/2048px-Pytest_logo.svg.png",
+                    "title": "Pytest"
+                },
+                {
+                    "icon": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png",
+                    "title": "Cypress"
                 }
             ]
         },
         {
             "title" : "Tools & Platforms",
             "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                {   
+                    "icon":"https://pngset.com/images/download-aws-logo-free-stock-aws-logo-label-text-symbol-bowl-transparent-png-2829269.png",
+                    "title":"AWS"
+
+                },{
+                    "title":"JIRA",
+                    "icon":"https://jira.uis.georgetown.edu/jira/images/atlassian-jira-logo-large.png"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png",
+                    "title": "VSCode"
                 }
             ]
     }
