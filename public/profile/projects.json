@@ -7,11 +7,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://github.com/Sailokeshg/portfolio"
                 }
             ],
             "tags" : [
@@ -21,129 +17,92 @@
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "title": "Naruto Swagger App",
+            "image":"https://www.scottbrady91.com/img/logos/swagger-banner.png",
+            "bodyText": "- A swagger documentation application that gives access to set of API that gives out different names and famous quotes as said by the characters of Anime named NARUTO.\n - Uses the FastAPI architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
+                    "href": "https://github.com/Sailokeshg/naruto-fastapi"
+                }
+            ],
+            "tags" : [
+                "FastAPI",
+                "Python",
+                "Swagger UI",
+                "Uvicorn",
+                "Postgresql",
+                "sqlalchemy"
+            ]
+        },
+        {
+            "image" : "https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png",
+            "title": "Notes App -  Built with React",
+            "bodyText": "- A note taking app with complete state management. Followed all best practices of React.\n - Added User authentication and password reset using **Okta**.\n - Deployed on **vercel**.",
+            "links": [
                 {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "text": "GitHub",
+                    "href": "https://github.com/Sailokeshg/notes-app"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Webpack",
+                "HTML",
+                "Tailwind",
+                "JavaScript",
+                "Vercel"
+            ]
+        },
+
+        {
+            "title": "Cafe Management App",
+            "image":"https://www.bdtask.com/sp/bhojon/img/restaurant-management-software.webp",
+            "bodyText": "- A desktop application for cafe management.\n - It manages everyday order and also has ability to print reciepts of the orders on demand.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Sailokeshg/CafeManagement"
                 }
             ],
             "tags" : [
                 "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Tkinter",
+                "Pandas",
+                "Numpy"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "title": "Image to PDF Telegram Bot",
+            "image":"https://www.pcworld.com/wp-content/uploads/2023/10/pdf-editor-primary-100794256-orig-2.jpg?quality=50&strip=all",
+            "bodyText": "- A telegram bot that converts images to PDF.\n - Prompts the user to send the image and it will convert it to PDF.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                    "href": "https://github.com/Sailokeshg/image2pdf-bot"
                 }
             ],
             "tags" : [
                 "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "Telegram SDk",
+                "img2pdf library"
+            ]
+        },
+        {
+            "image" : "https://www.educatesis.com/wp-content/uploads/2020/11/RC-Educate-simplify-student-management-webinar-thumb.png",
+            "title": "Student Management System",
+            "bodyText": "- A Student Management System built with **Java** and **Spring Boot**.\n - It also records the employee who is managing the student data.\n - Used Hibernate and SQL for data management.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Sailokeshg/Spring_project"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Spring Boot",
+                "Hibernate",
+                "VIT"
             ]
         }
     ]
