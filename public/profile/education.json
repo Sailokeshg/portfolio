@@ -1,16 +1,16 @@
 {
     "education":[
         {
-            "title": "Aug 2023-Jun 2025",
+            "title": "Aug 2023-Dec 2024",
             "cardTitle": "Masters in Computer Science",
             "cardSubtitle":"California State University, East Bay",
-            "cardDetailedText": "GPA - 3.6",
+            "cardDetailedText": "GPA - 4.0",
             "icon" : {
                 "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/CSU_East_Bay_athletics_icon.svg/640px-CSU_East_Bay_athletics_icon.svg.png"
             }
         },
         {
-            "title": "Jun 2018 - Jun 2023",
+            "title": "Jun 2018-Jun 2023",
             "cardTitle": "B.Tech, Computer Science",
             "cardSubtitle":"CMR Institute of Technology, Hyderabad",
             "cardDetailedText": "CGPA - 8.85"           

@@ -1,6 +1,16 @@
 {
     "experiences": [
         {
+            "title": "Research Assistant",
+            "subtitle": "California State University, East Bay",
+            "workType": "Part-time",
+            "workDescription": [
+                "I am currently working with my professor on a research related to application of Virtual Reality/ Augmented Reality in psychology related learning and teaching methodologies"
+            ],
+            "dateText": "Oct 2023 - May 2024",
+            "location": "Hayward, San Francisco, CA"
+        },
+        {
             "title": "Software Engineer 1 (Full Stack Developer)",
             "subtitle": "Zemoso Technologies Pvt.Ltd",
             "workType": "Full-time",
