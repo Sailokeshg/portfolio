@@ -1,6 +1,16 @@
 {
     "experiences": [
         {
+            "title": "Senator, College of Science",
+            "subtitle": "California State University, East Bay",
+            "workType": "Part-time",
+            "workDescription": [
+                "As a senator of the College of Science, I represent the interests of students in the college and advocate for their needs."
+            ],
+            "dateText": "Aug 2024 - May 2025",
+            "location": "Hayward, CA"
+        },
+        {
             "title": "Software Engineer Intern",
             "subtitle": "WashMetrix",
             "workType": "Full-time",
