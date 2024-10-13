@@ -89,7 +89,7 @@
             ]
         },
         {
-            "image" : "https://www.educatesis.com/wp-content/uploads/2020/11/RC-Educate-simplify-student-management-webinar-thumb.png",
+            "image" : "https://www.vidyalayaschoolsoftware.com/webassets/images/school_software_3.png",
             "title": "Student Management System",
             "bodyText": "- A Student Management System built with **Java** and **Spring Boot**.\n - It also records the employee who is managing the student data.\n - Used Hibernate and SQL for data management.",
             "links": [
