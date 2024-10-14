@@ -17,6 +17,23 @@
             ]
         },
         {
+            "image" : "images/projects/csueb-gemini.png",
+            "title": "AI Support for CSUEB",
+            "bodyText": "I built a personal site using AI that acts as a support system to help students answers related to university queries. Gemini AI backs this support system.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Sailokeshg/csueb-gemini-api"
+                }
+            ],
+            "tags" : [
+                "Gemini AI",
+                "React",
+                "JavaScript",
+                "HTML"
+            ]
+        },
+        {
             "title": "Naruto Swagger App",
             "image":"https://www.scottbrady91.com/img/logos/swagger-banner.png",
             "bodyText": "- A swagger documentation application that gives access to set of API that gives out different names and famous quotes as said by the characters of Anime named NARUTO.\n - Uses the FastAPI architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
