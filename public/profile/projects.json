@@ -8,6 +8,10 @@
                 {
                     "text": "GitHub",
                     "href": "https://github.com/Sailokeshg/portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://sailokesh.netlify.app/"
                 }
             ],
             "tags" : [
@@ -24,6 +28,10 @@
                 {
                     "text": "GitHub",
                     "href": "https://github.com/Sailokeshg/csueb-gemini-api"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://csueb-support.netlify.app/"
                 }
             ],
             "tags" : [
