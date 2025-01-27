@@ -73,7 +73,12 @@
                     "icon":"https://pngset.com/images/download-aws-logo-free-stock-aws-logo-label-text-symbol-bowl-transparent-png-2829269.png",
                     "title":"AWS"
 
-                },{
+                },
+                {
+                    "icon":"https://miro.medium.com/v2/resize:fit:860/1*BEGGWVM2rQx438Fevmz1Fw.png",
+                    "title":"Apache Airflow"
+                },
+                {
                     "title":"JIRA",
                     "icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png"
                 },
