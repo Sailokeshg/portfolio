@@ -1,6 +1,20 @@
 {
     "experiences": [
         {
+            "title": "Software Engineer Intern",
+            "subtitle": "WashMetrix",
+            "workType": "Part-time",
+            "workDescription": [
+                "Played a key role in developing a React-based web application for data analytics of car wash stations, achieving a 25% improvement in user engagement ",
+                "Developed frontend React components and integrated backend RESTful APIs built using FastAPI and Python , reducing API response time by 30% .",
+                "Wrote SQL scripts to extract data from POS systems into PostgreSQL databases , improving data processing efficiency by 20%.",
+                "Implemented graph visualizations using Graph.js and resizable tiles , enhancing UI/UX satisfaction by 15% .",
+                "Integrated boto3 for S3 storage, ensuring secure file uploads with a 99.9% success rate"
+            ],
+            "dateText": "May 2024 - May 2025",
+            "location": "Irving ,TX"
+        },
+        {
             "title": "Senator, College of Science",
             "subtitle": "California State University, East Bay",
             "workType": "Part-time",
@@ -13,21 +27,14 @@
             "location": "Hayward, CA"
         },
         {
-            "title": "Software Engineer Intern",
-            "subtitle": "WashMetrix",
-            "workType": "Part-time",
-            "workDescription": [
-                "Working on a car wash data analytics project to provide insights to car wash owners to improve their business."
-            ],
-            "dateText": "May 2024 - May 2025",
-            "location": "Irving ,TX"
-        },
-        {
             "title": "Research Assistant",
             "subtitle": "California State University, East Bay",
             "workType": "Part-time",
             "workDescription": [
-                "I am currently working with my professor on a research related to development of an Virtual Reality application (MVP) in enhancing nursing field's learning and teaching methodologies for my university "
+                "Collaborated with a professor to develop a Virtual Reality/Augmented Reality application for nursing education at California State University - East Bay.",
+                "Conducted research on innovative teaching methodologies to enhance nursing learning experiences.",
+                "Implemented cutting-edge technology to improve the overall effectiveness of nursing education.",
+                "Assisted in the development and testing of the application to ensure seamless integration with existing curriculum. "
             ],
             "dateText": "Oct 2023 - May 2024",
             "location": "Hayward, San Francisco, CA"
@@ -53,8 +60,9 @@
             "subtitle": "Zemoso Technologies Pvt.Ltd",
             "workType": "Full-time",
             "workDescription": [
-                "Worked on a full-stack real-time project from scratch to production deployment.",
+                "Worked on a full-stack real-time project from scratch to production deployment of MVP in just 4 months",
                 "Developed a web application using React.js, PostgreSQL, and AWS tools.",
+                "Achieved 90 percent custmer retention for the product with MVP",
                 "Responsible for continuous deployment of the application using CI/CD pipelines."
             ],
             "dateText": "Jun 2022 - Dec 2022",
