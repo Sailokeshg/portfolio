@@ -21,6 +21,11 @@ const styles = {
     alignItems: 'center',
     display: 'flex',
   },
+  aboutStyles:{
+    display:'flex',
+    justifyContent:'inline',
+    flexDirection:'row'
+  }
 };
 
 function About(props) {
@@ -50,12 +55,12 @@ function About(props) {
           {data
             ? (
               <Fade>
-                <Row>
+                <Row >
                   <Col style={styles.introTextContainer}>
                     {parseIntro(data.about)}
                   </Col>
                   <Col style={styles.introImageContainer}>
-                    <img src={data?.imageSource} alt="profile" />
+                    <img src={data?.imageSource} alt="profile" width='700px' height='500px'/>
                   </Col>
                 </Row>
               </Fade>

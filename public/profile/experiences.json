@@ -1,7 +1,7 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer Intern",
+            "title": "Software Engineer",
             "subtitle": "WashMetrix",
             "workType": "Part-time",
             "workDescription": [
@@ -11,7 +11,7 @@
                 "Implemented graph visualizations using Graph.js and resizable tiles , enhancing UI/UX satisfaction by 15% .",
                 "Integrated boto3 for S3 storage, ensuring secure file uploads with a 99.9% success rate"
             ],
-            "dateText": "May 2024 - May 2025",
+            "dateText": "May 2024 - Present",
             "location": "Irving ,TX"
         },
         {
